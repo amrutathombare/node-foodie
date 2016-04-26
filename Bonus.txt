@@ -1,0 +1,1 @@
+Included a 'total' button to display total of all the food items upon clicking it.
