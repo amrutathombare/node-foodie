@@ -1,7 +1,9 @@
 # node-
 First Phase – Runtime Environment
     GET 	/api/food 	Get all of the food items in the order
+    
     POST 	/api/food 	Create a single food item
+    
     DELETE 	/api/food/:food_id 	Delete a single food item
     
 Second Phase – Database
